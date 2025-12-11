@@ -1,0 +1,8 @@
+.canvas-node-label {
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out;
+}
+
+.canvas-node-label:hover {
+    opacity: 1;
+}
